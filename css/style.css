@@ -43,7 +43,7 @@
  .home{
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/istockphoto-1136817041-1024x1024.jpg);
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
